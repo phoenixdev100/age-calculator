@@ -2,12 +2,14 @@
 
 It is a simple Javascript project which calculates our age in years.
 
-Homepage
+### Homepage
+
 ![homepage](/homepage.png)
 
 <br>
 
-Result
+### Result
+
 ![result](/result.png)
 
 ## 💻phoenixdev100
